@@ -1,0 +1,3 @@
+all:    #target name
+	g++ Question_3.cpp
+	a.exe
