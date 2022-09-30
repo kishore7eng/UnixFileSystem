@@ -6,9 +6,9 @@ an existing file, renaming an existing file, read/write on a block, list the fil
 
 Pre-Requisites: 
 
-1. Please ensure that "Question_3.cpp" file and other files in this Folder is placed in easily accessible location. Make sure all files in folder are in same place as cpp file.              
+1. Please ensure that "main.cpp" file and other files in this Folder is placed in easily accessible location. Make sure all files in folder are in same place as cpp file.              
 
-2. Ensure that gcc is installed. We have used gcc version 11.2.0 for the Assignment, lower gcc versions may also work.
+2. Ensure that gcc is installed. I have used gcc version 11.2.0 for the Project, lower gcc versions may also work.
 
 		On windows run
 				--> gcc --version.
@@ -32,12 +32,12 @@ Pre-Requisites:
 
 		On Linux, you don't need to install anything just do following steps,
 	
-				i>  Ensure that you are in right folder of Question_3. If not, traverse via the shell to concerned directory.
+				i>  Ensure that you are in right folder of File System. If not, traverse via the shell to concerned directory.
 				ii> Run: make -f Makefile.nix
 
 
 Flow of process after running:
 
-1. Enter Commands as per the assignment to see correct output. 
+1. Enter Commands as per the need to see correct output. 
 
 2. Follow instructions as given on screen.
